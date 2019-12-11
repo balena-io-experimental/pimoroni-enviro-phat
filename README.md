@@ -7,8 +7,8 @@ This is a project to get you started with the [Pimoroni Enviro pHat][envirophat]
 ### for balenaCloud managed devices
 
 1. Provision a device in your application following the balenaCloud [Getting Started Guide][balena-get-started].
-2. Clone this repository locally and add the `balena git remote` to the repo.
-3. Run `git push balena master` and wait for the code to be deployed. The code will build and run, you will hear the relay clicking every 5 seconds.
+2. Clone this repository locally and add the `balena git remote ...` to the repo.
+3. Run `git push balena master` and wait for the code to be deployed, the code will build and run.
 
 ### for unmanaged balenaOS devices
 
